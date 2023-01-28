@@ -44,7 +44,7 @@ let generateShop = () => {
 generateShop();
 
 /**
- * ! used to increase the selected product item quantity by 1
+ * ! used to increase the selected product item quantity by 2
  */
 
 let increment = (id) => {
